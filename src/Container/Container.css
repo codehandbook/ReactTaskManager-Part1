@@ -1,0 +1,12 @@
+.Container-marginTop {
+  margin-top: 50px;
+}
+.Container-color{
+	border: 1px solid #80808047;
+}
+
+
+p{
+	font-size: smaller;
+    font-family: monospace;
+}
